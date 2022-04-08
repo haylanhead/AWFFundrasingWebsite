@@ -11,7 +11,7 @@
 <div class="Navigation">
     <ul>
         <li>
-            <a href="./AWFHomePage.html">Home</a>
+            <a href="./index.html">Home</a>
         </li>
         <li>
             <a href="./AboutMePage.html">About Me</a>
